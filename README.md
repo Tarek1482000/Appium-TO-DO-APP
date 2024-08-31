@@ -7,7 +7,7 @@ This section focuses on writing automated tests for the Android TO Do App's Sign
 ### Test Scenarios
 
 1. **Registration**:
-   - Registration Happy Scenario.
+  - Registration Happy Scenario.
    
 3. **Login**:
   - Login Happy Scenario.
